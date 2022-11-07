@@ -1,4 +1,4 @@
-#include "main.h".
+#include "main.h"
 /**
  * _getenv - gets PATH member from environ
  * @name: pointer to PATH string
