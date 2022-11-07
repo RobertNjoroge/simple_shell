@@ -74,4 +74,6 @@ write (man 2 write)
 	hsh main.c shell.c test_ls_2
 	hsh main.c shell.c test_ls_2
 	$
-
+AUTHORS
+Jeane Okello
+Robert Njoroge
